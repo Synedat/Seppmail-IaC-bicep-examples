@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="Seppmail-IaC-bicep-examples header">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <g opacity="0.12">
+    <circle cx="1080" cy="140" r="180" fill="#38bdf8"/>
+    <circle cx="180" cy="520" r="220" fill="#22c55e"/>
+  </g>
+  <rect x="72" y="88" width="1136" height="464" rx="28" fill="#111827" stroke="#334155"/>
+  <text x="120" y="180" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700">Seppmail-IaC-bicep-examples</text>
+  <text x="120" y="236" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="24">Bicep starter modules for SEPPmail-adjacent Azure infrastructure and operational guardrails.</text>
+  <text x="120" y="312" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="22">Focus: modular bicep design, diagnostics, network segmentation and operationally ready infrastructure patterns</text>
+  <text x="120" y="388" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="22">Audience: Azure engineers, IaC practitioners and security-conscious delivery teams.</text>
+  <text x="120" y="492" fill="#38bdf8" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Synedat x SEPPmail partner repository</text>
+</svg>

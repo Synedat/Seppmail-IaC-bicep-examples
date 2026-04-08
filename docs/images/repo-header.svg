@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Seppmail IaC bicep examples">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#0b3b66"/>
+      <stop offset="100%" stop-color="#115e59"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="24" fill="url(#bg)"/>
+  <g opacity="0.18">
+    <circle cx="1030" cy="70" r="170" fill="#60a5fa"/>
+    <circle cx="1180" cy="260" r="150" fill="#34d399"/>
+  </g>
+  <text x="70" y="110" font-size="40" font-family="Arial, Helvetica, sans-serif" fill="#ffffff" font-weight="700">Seppmail IaC bicep examples</text>
+  <text x="70" y="155" font-size="20" font-family="Arial, Helvetica, sans-serif" fill="#dbeafe">SEPPmail ecosystem repository maintained by Synedat Group GmbH</text>
+  <text x="70" y="205" font-size="24" font-family="Arial, Helvetica, sans-serif" fill="#ecfeff">Bicep examples for networking, observability and security guardrails</text>
+  <rect x="70" y="235" width="210" height="36" rx="18" fill="#e5f3ff"/>
+  <text x="95" y="259" font-size="18" font-family="Arial, Helvetica, sans-serif" fill="#0f172a">Partner-ready public repo</text>
+</svg>

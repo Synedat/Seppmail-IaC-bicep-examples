@@ -1,0 +1,7 @@
+{
+  "template": "main.bicep",
+  "lint": "passed",
+  "resources": 7,
+  "environment": "demo",
+  "evidenceId": "bicep-demo-010"
+}

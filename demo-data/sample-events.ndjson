@@ -1,0 +1,3 @@
+{"ts": "2026-04-08T09:00:00Z", "event": "start", "repo": "Seppmail-IaC-bicep-examples", "status": "info"}
+{"ts": "2026-04-08T09:01:10Z", "event": "validation", "repo": "Seppmail-IaC-bicep-examples", "status": "pass"}
+{"ts": "2026-04-08T09:02:21Z", "event": "evidence-export", "repo": "Seppmail-IaC-bicep-examples", "status": "pass"}

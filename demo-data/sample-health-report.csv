@@ -1,0 +1,4 @@
+timestamp,check,severity,status,notes
+2026-04-08T09:00:00Z,connectivity,low,pass,demo sample
+2026-04-08T09:01:00Z,authentication,medium,pass,demo sample
+2026-04-08T09:02:00Z,policy-validation,medium,warn,review recommended

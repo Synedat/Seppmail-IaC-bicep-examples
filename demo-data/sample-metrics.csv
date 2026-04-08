@@ -1,0 +1,5 @@
+metric,value,unit
+Lint pass rate,81,demo
+Module reuse score,82,demo
+Policy alignment,83,demo
+Deployment readiness,84,demo

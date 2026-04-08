@@ -1,0 +1,14 @@
+environment: demo
+repository: Seppmail-IaC-bicep-examples
+partner: SEPPmail
+maintainer: Synedat Group GmbH
+focus: Bicep starter patterns for secure Azure deployment around SEPPmail scenarios
+controls:
+  - ISO/IEC 27001
+  - BAIT
+  - DORA
+  - TISAX
+  - NIS2
+notes:
+  - Example configuration only
+  - Adjust permissions and network ranges before production use

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="Seppmail-IaC-bicep-examples governance and community overview">
+  <rect width="1280" height="640" fill="#0b1320"/>
+  <rect x="48" y="48" width="1184" height="544" rx="24" fill="#111b2e" stroke="#2d456b"/>
+  <text x="84" y="130" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">Seppmail-IaC-bicep-examples</text>
+  <text x="84" y="176" fill="#a9bdd8" font-family="Arial, Helvetica, sans-serif" font-size="22">Public Synedat engineering repository in the SEPPmail partner ecosystem</text>
+  <rect x="84" y="220" width="340" height="108" rx="16" fill="#17304d"/>
+  <text x="108" y="262" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Governance</text>
+  <text x="108" y="296" fill="#d7e4f5" font-family="Arial, Helvetica, sans-serif" font-size="18">License, notice, code of conduct,</text>
+  <text x="108" y="322" fill="#d7e4f5" font-family="Arial, Helvetica, sans-serif" font-size="18">security disclosure, maintainers</text>
+  <rect x="470" y="220" width="340" height="108" rx="16" fill="#17304d"/>
+  <text x="494" y="262" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Community</text>
+  <text x="494" y="296" fill="#d7e4f5" font-family="Arial, Helvetica, sans-serif" font-size="18">Discussions, issue templates,</text>
+  <text x="494" y="322" fill="#d7e4f5" font-family="Arial, Helvetica, sans-serif" font-size="18">showcase ideas, contributor journey</text>
+  <rect x="856" y="220" width="292" height="108" rx="16" fill="#17304d"/>
+  <text x="880" y="262" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Trust</text>
+  <text x="880" y="296" fill="#d7e4f5" font-family="Arial, Helvetica, sans-serif" font-size="18">Architecture, RBAC,</text>
+  <text x="880" y="322" fill="#d7e4f5" font-family="Arial, Helvetica, sans-serif" font-size="18">controls, evidence, runbooks</text>
+  <text x="84" y="418" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Discoverability anchors</text>
+  <text x="84" y="458" fill="#d7e4f5" font-family="Arial, Helvetica, sans-serif" font-size="20">SEPPmail · Exchange Online · Microsoft 365 · Azure · PowerShell · API · Operations · Compliance</text>
+  <text x="84" y="530" fill="#8ba3c4" font-family="Arial, Helvetica, sans-serif" font-size="18">Maintained by Synedat Group GmbH · https://www.synedat.com/</text>
+</svg>

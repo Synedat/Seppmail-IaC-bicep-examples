@@ -1,0 +1,4 @@
+title: Seppmail-IaC-bicep-examples
+description: Bicep starter modules for SEPPmail-adjacent Azure infrastructure and operational guardrails.
+theme: minima
+markdown: kramdown

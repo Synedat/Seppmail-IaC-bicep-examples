@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" fill="#ffffff"/>
+<text x="60" y="70" font-size="34" font-family="Arial" fill="#0f172a">Seppmail-IaC-bicep-examples - operations lifecycle</text>
+<g font-family="Arial" fill="#0f172a">
+<rect x="60" y="180" width="180" height="90" rx="16" fill="#e2e8f0"/><text x="95" y="235" font-size="24">Assess</text>
+<rect x="290" y="180" width="180" height="90" rx="16" fill="#dbeafe"/><text x="330" y="235" font-size="24">Prepare</text>
+<rect x="520" y="180" width="180" height="90" rx="16" fill="#fde68a"/><text x="560" y="235" font-size="24">Execute</text>
+<rect x="750" y="180" width="180" height="90" rx="16" fill="#dcfce7"/><text x="790" y="235" font-size="24">Validate</text>
+<rect x="980" y="180" width="180" height="90" rx="16" fill="#fecaca"/><text x="1020" y="235" font-size="24">Improve</text>
+</g>
+<g stroke="#64748b" stroke-width="6">
+<line x1="240" y1="225" x2="290" y2="225"/><line x1="470" y1="225" x2="520" y2="225"/><line x1="700" y1="225" x2="750" y2="225"/><line x1="930" y1="225" x2="980" y2="225"/>
+</g>
+<text x="60" y="360" font-size="20" font-family="Arial" fill="#475569">Use this repository as a starting point for repeatable engineering, operations and reviewable implementation records.</text>
+</svg>

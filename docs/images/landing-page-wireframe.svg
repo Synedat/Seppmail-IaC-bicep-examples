@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+<rect width="1200" height="900" fill="#f8fafc"/>
+<rect x="40" y="30" width="1120" height="90" rx="14" fill="#0f172a"/>
+<text x="80" y="85" font-size="36" fill="#ffffff" font-family="Arial, Helvetica, sans-serif">Seppmail-IaC-bicep-examples landing page wireframe</text>
+<rect x="40" y="150" width="1120" height="170" rx="16" fill="#e2e8f0" stroke="#94a3b8"/>
+<text x="70" y="205" font-size="28" fill="#0f172a" font-family="Arial, Helvetica, sans-serif">Hero section</text>
+<text x="70" y="245" font-size="22" fill="#334155" font-family="Arial, Helvetica, sans-serif">Value proposition, badges, quick start, partner positioning</text>
+<rect x="40" y="350" width="540" height="180" rx="16" fill="#eef2ff" stroke="#a5b4fc"/>
+<text x="70" y="405" font-size="26" fill="#312e81" font-family="Arial, Helvetica, sans-serif">Architecture + security</text>
+<text x="70" y="445" font-size="20" fill="#4338ca" font-family="Arial, Helvetica, sans-serif">Reference diagram, trust boundaries, permission model</text>
+<rect x="620" y="350" width="540" height="180" rx="16" fill="#ecfeff" stroke="#67e8f9"/>
+<text x="650" y="405" font-size="26" fill="#155e75" font-family="Arial, Helvetica, sans-serif">Demo content</text>
+<text x="650" y="445" font-size="20" fill="#0f766e" font-family="Arial, Helvetica, sans-serif">Example outputs, walkthroughs, screenshots, workshop kit</text>
+<rect x="40" y="560" width="1120" height="130" rx="16" fill="#fef3c7" stroke="#f59e0b"/>
+<text x="70" y="620" font-size="26" fill="#78350f" font-family="Arial, Helvetica, sans-serif">Community + releases + changelog + discussions</text>
+<rect x="40" y="720" width="1120" height="130" rx="16" fill="#dcfce7" stroke="#22c55e"/>
+<text x="70" y="780" font-size="26" fill="#14532d" font-family="Arial, Helvetica, sans-serif">Call to action: start, adapt, contribute, contact Synedat</text>
+</svg>
